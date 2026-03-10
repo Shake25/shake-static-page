@@ -1,0 +1,2 @@
+# shake-static-page
+about
